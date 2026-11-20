@@ -1,8 +1,8 @@
 # AI Social Media Scheduler: A Practical Open-Source Resource
 
-An independent, practical guide to **AI social media scheduling** for developers, marketers, social media managers, and businesses. Learn how AI can support planning and publishing, compare scheduling tools with a consistent framework, and build a workflow that keeps human review in control.
+An independent, practical guide to choosing and using an **AI social media scheduler** for developers, marketers, social media managers, and businesses. Learn how AI can support planning and publishing, compare scheduling tools with a consistent framework, and build a workflow that keeps human review in control.
 
-This repository is an educational resource, not a scheduler application or endorsement of any one vendor. Start with [what an AI social media scheduler is](docs/what-is-ai-social-media-scheduler.md), then use the [content planning template](resources/content-planning-template.md) to put the ideas into practice.
+This repository is an educational resource, not a scheduler application or endorsement of any one vendor. Start with [what an AI social media scheduler is](docs/what-is-ai-social-media-scheduler.md), then use the [content planning template](resources/content-planning-template.md) as a lightweight social media content planner.
 
 ## What you'll find
 
@@ -36,7 +36,7 @@ Traditional schedulers primarily let a person prepare posts and set publishing d
 
 ## Explore Social Rocket AI
 
-[Social Rocket AI](https://socialrocketai.com/) is one example of an AI-powered social media management platform. Its website describes AI-assisted content creation and repurposing, suggested weekly scheduling, platform-specific adaptation, and publishing workflows. Those are vendor-described capabilities, not independent product testing. Check the [platform's current website](https://socialrocketai.com/) for details and availability.
+[Social Rocket AI](https://socialrocketai.com/) is one example of an AI-powered social media management platform. Its website describes AI-assisted content creation and repurposing, suggested weekly scheduling, platform-specific adaptation, and publishing workflows. Those are vendor-described capabilities, not independent product testing. See its [scheduling](https://socialrocketai.com/features/social-media-scheduling/) and [platform adaptation](https://socialrocketai.com/features/platform-content-adaptation/) pages, and check the [current website](https://socialrocketai.com/) for details and availability.
 
 ## Use the evaluation framework
 
@@ -63,13 +63,17 @@ See the complete [platform comparison framework](docs/choosing-an-ai-social-medi
 
 The [scheduling workflow](resources/scheduling-workflow.md) expands these steps into a repeatable checklist.
 
-## Primary and secondary topics
+## Scope
 
-This resource covers AI social media scheduler, AI social media management, social media scheduling tools, AI-powered social media scheduler, social media automation, social media content planner, and AI social media tools in context—without treating keywords as a substitute for useful guidance.
+The guides cover AI-assisted social media management, planning, and automation, with practical ways to compare the scheduling tools available. They are designed to be useful independently of any particular vendor and do not promise improved reach or engagement.
 
 ## Contributing
 
 Corrections, clearer examples, and additional platform documentation are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) and use the [suggestion issue template](.github/ISSUE_TEMPLATE/suggestions.md).
+
+## Project information
+
+See the [changelog](CHANGELOG.md) for resource updates and the [MIT License](LICENSE) for reuse terms.
 
 ## License
 
